@@ -1,0 +1,1 @@
+This repository contains information regarding the talk "Análisis del transcriptoma mediante RNA-seq: Aplicaciones actuales y perspectivas" prepared by Oscar Ortega-Recalde for the "V Simposio internacional de Genética Humana, Cali Colombia, 2024".
