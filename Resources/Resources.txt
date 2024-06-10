@@ -1,0 +1,17 @@
+NGS - Illumina
+https://www.youtube.com/watch?v=fCd6B5HRaZ8
+
+Explanation RPKM
+https://www.youtube.com/watch?v=TTUrtCY2k-w
+
+Human Cell Atlas
+https://www.humancellatlas.org/
+
+Spatial transcriptomics
+https://www.youtube.com/watch?v=VwNk4d-0RJc
+Suggested paper: An introduction to spatial transcriptomics for biomedical research, William et al, 2022
+
+Courses / Workflows
+http://combine-australia.github.io/RNAseq-R/
+https://f1000research.com/articles/4-1070/v2
+RNA-Seq workflow: gene-level exploratory analysis and differential expression, Love et al, 2016
